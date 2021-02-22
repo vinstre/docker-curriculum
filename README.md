@@ -5,5 +5,3 @@ Docker Curriculum
 
 Follow the curriculum on [docker-curriculum.com](https://docker-curriculum.com/)
 
-test
-
